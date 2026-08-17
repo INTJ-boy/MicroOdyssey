@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "title_fr": "Première observation de vie microscopique",
+    "title_ar": "أول ملاحظة للحياة المجهرية",
+    "fr": "À l'aide d'un microscope à lentille unique taillé à la main, Leeuwenhoek a observé et décrit ce qu'il appelait des animalcules dans l'eau d'étang, la première observation documentée de micro-organismes.",
+    "ar": "باستخدام مجهر بعدسة واحدة مصقولة يدويًا، لاحظ ليفينهوك ووصف ما أسماه الحيوانات الدقيقة في ماء البرك، وهي أول مشاهدة موثقة للكائنات الدقيقة."
+  },
+  {
+    "id": 2,
+    "title_fr": "Réfutation de la génération spontanée",
+    "title_ar": "دحض التوالد التلقائي",
+    "fr": "Les expériences de Pasteur avec des flacons à col de cygne ont montré qu'un bouillon stérilisé restait exempt de croissance microbienne sauf exposition à des particules aériennes, réfutant la génération spontanée.",
+    "ar": "أظهرت تجارب باستور بالقوارير ذات العنق البجعي أن المرق المعقم يبقى خاليًا من النمو الميكروبي ما لم يتعرض لجزيئات محمولة بالهواء، مما دحض فكرة التوالد التلقائي."
+  },
+  {
+    "id": 3,
+    "title_fr": "Le lavage antiseptique des mains réduit la fièvre puerpérale",
+    "title_ar": "غسل اليدين المطهر يقلل حمى النفاس",
+    "fr": "Semmelweis a montré que la désinfection des mains à la chaux chlorée réduisait fortement la mortalité maternelle, bien que la théorie des germes n'existât pas encore pour l'expliquer.",
+    "ar": "أظهر سيميلفايس أن تطهير اليدين بالجير المكلور يقلل بشدة من وفيات الأمهات، رغم أن نظرية الجراثيم لم تكن موجودة بعد لتفسير ذلك."
+  },
+  {
+    "id": 4,
+    "title_fr": "Formulation des postulats de Koch",
+    "title_ar": "صياغة مسلمات كوخ",
+    "fr": "Koch a énoncé un ensemble de critères pour établir un lien causal entre un micro-organisme et une maladie, devenant le fondement méthodologique de la microbiologie médicale.",
+    "ar": "صاغ كوخ مجموعة من المعايير لإثبات علاقة سببية بين كائن دقيق ومرض ما، لتصبح الأساس المنهجي لعلم الأحياء الدقيقة الطبي."
+  },
+  {
+    "id": 5,
+    "title_fr": "Développement de la coloration de Gram",
+    "title_ar": "تطوير صبغة غرام",
+    "fr": "La méthode de coloration différentielle de Gram distinguait les bactéries selon la structure de leur paroi cellulaire et reste un outil diagnostique de première ligne.",
+    "ar": "ميزت طريقة صبغة غرام التفريقية البكتيريا حسب بنية جدارها الخلوي، ولا تزال أداة تشخيصية أساسية."
+  },
+  {
+    "id": 6,
+    "title_fr": "Première vaccination antirabique chez l'humain",
+    "title_ar": "أول تلقيح ضد داء الكلب لدى إنسان",
+    "fr": "Pasteur a administré son vaccin antirabique expérimental à un garçon mordu par un chien enragé, l'une des premières utilisations réussies d'un vaccin de laboratoire chez l'humain.",
+    "ar": "أعطى باستور لقاحه التجريبي ضد داء الكلب لصبي عضه كلب مسعور، في واحدة من أوائل الاستخدامات الناجحة للقاح مطور مخبريًا لدى البشر."
+  },
+  {
+    "id": 7,
+    "title_fr": "Découverte des virus comme agents filtrables",
+    "title_ar": "اكتشاف الفيروسات كعوامل قابلة للترشيح",
+    "fr": "Ivanovsky a montré que l'agent de la mosaïque du tabac traversait des filtres retenant les bactéries ; les travaux de Beijerinck en 1898 l'ont nommé contagium vivum fluidum, fondant la virologie.",
+    "ar": "أظهر إيفانوفسكي أن عامل موزاييك التبغ يمر عبر مرشحات تحتجز البكتيريا؛ وسمّاه عمل بيّرينك اللاحق عام 1898 مادة العدوى الحية السائلة، مؤسسًا علم الفيروسات."
+  },
+  {
+    "id": 8,
+    "title_fr": "Découverte des bactériophages",
+    "title_ar": "اكتشاف العاثيات",
+    "fr": "D'Herelle a identifié des virus capables d'infecter et de détruire des bactéries, inventant le terme bactériophage ; Frederick Twort avait observé un phénomène similaire indépendamment en 1915.",
+    "ar": "حدد ديريل فيروسات قادرة على إصابة البكتيريا وتدميرها، وصاغ مصطلح العاثية؛ وكان فريدريك تورت قد لاحظ ظاهرة مشابهة بشكل مستقل عام 1915."
+  },
+  {
+    "id": 9,
+    "title_fr": "Découverte de la pénicilline",
+    "title_ar": "اكتشاف البنسلين",
+    "fr": "Fleming a remarqué qu'une contamination par la moisissure Penicillium sur une boîte de culture tuait les colonies voisines de Staphylococcus, lançant l'ère des antibiotiques.",
+    "ar": "لاحظ فليمنغ أن تلوثًا بعفن البنسليوم على طبق زرع قتل مستعمرات المكورات العنقودية المجاورة، مما أطلق عصر المضادات الحيوية."
+  },
+  {
+    "id": 10,
+    "title_fr": "Découverte de la transformation bactérienne",
+    "title_ar": "اكتشاف التحول البكتيري",
+    "fr": "Griffith a montré que des pneumocoques inoffensifs pouvaient acquérir des traits de virulence de bactéries virulentes tuées par la chaleur, suggérant une substance génétique transférable.",
+    "ar": "أظهر غريفيث أن المكورات الرئوية غير الضارة يمكن أن تكتسب صفات الفوعة من بكتيريا ضارية قُتلت بالحرارة، مما ألمح إلى وجود مادة وراثية قابلة للنقل."
+  },
+  {
+    "id": 11,
+    "title_fr": "Le DNA identifié comme matériel génétique",
+    "title_ar": "تحديد الحمض النووي كمادة وراثية",
+    "fr": "S'appuyant sur l'expérience de transformation de Griffith, cette équipe a montré que l'ADN, et non les protéines, portait l'information génétique du pneumocoque.",
+    "ar": "بناءً على تجربة تحول غريفيث، أظهر هذا الفريق أن الحمض النووي، لا البروتين، هو حامل المعلومات الوراثية للمكورات الرئوية."
+  },
+  {
+    "id": 12,
+    "title_fr": "Découverte de la conjugaison bactérienne",
+    "title_ar": "اكتشاف الاقتران البكتيري",
+    "fr": "A démontré que les bactéries pouvaient échanger du matériel génétique par contact direct entre cellules, fondant le domaine de la génétique bactérienne.",
+    "ar": "أثبت أن البكتيريا يمكنها تبادل المادة الوراثية عبر تماس مباشر بين الخلايا، مؤسسًا مجال علم الوراثة البكتيري."
+  },
+  {
+    "id": 13,
+    "title_fr": "Isolation de la streptomycine",
+    "title_ar": "عزل الستربتوميسين",
+    "fr": "Isolée de Streptomyces griseus, la streptomycine est devenue le premier antibiotique efficace contre la tuberculose.",
+    "ar": "عُزل من Streptomyces griseus، وأصبح الستربتوميسين أول مضاد حيوي فعّال ضد السل."
+  },
+  {
+    "id": 14,
+    "title_fr": "Découverte de la transduction",
+    "title_ar": "اكتشاف النقل بالعاثيات",
+    "fr": "A montré que les bactériophages pouvaient transférer des gènes bactériens entre cellules, un troisième mécanisme de transfert horizontal de gènes aux côtés de la conjugaison et de la transformation.",
+    "ar": "أظهر أن العاثيات يمكنها نقل جينات بكتيرية بين الخلايا، وهي آلية ثالثة للنقل الأفقي للجينات إلى جانب الاقتران والتحول."
+  },
+  {
+    "id": 15,
+    "title_fr": "L'expérience de Hershey-Chase confirme l'ADN comme matériel génétique",
+    "title_ar": "تجربة هيرشي وتشيس تؤكد الحمض النووي كمادة وراثية",
+    "fr": "À l'aide de bactériophages marqués radioactivement, l'expérience a montré que c'est l'ADN, et non les protéines, qui est injecté dans les bactéries pour diriger la réplication virale.",
+    "ar": "باستخدام عاثيات موسومة إشعاعيًا، أظهرت التجربة أن الحمض النووي، لا البروتين، هو ما يُحقن داخل البكتيريا لتوجيه التضاعف الفيروسي."
+  },
+  {
+    "id": 16,
+    "title_fr": "Élucidation de la double hélice de l'ADN",
+    "title_ar": "توضيح بنية الحلزون المزدوج للحمض النووي",
+    "fr": "Le modèle de Watson et Crick, basé sur les données de diffraction aux rayons X de Franklin, a révélé la structure en double hélice de l'ADN, transformant la génétique microbienne.",
+    "ar": "كشف نموذج واتسون وكريك، المبني على بيانات حيود الأشعة السينية لفرانكلين، عن بنية الحلزون المزدوج للحمض النووي، محدثًا تحولًا في علم الوراثة الميكروبي."
+  },
+  {
+    "id": 17,
+    "title_fr": "Isolation du VIH",
+    "title_ar": "عزل فيروس نقص المناعة البشرية",
+    "fr": "Isolation d'un rétrovirus à partir d'une biopsie ganglionnaire, confirmé plus tard comme cause du sida.",
+    "ar": "عزل فيروس قهقري من خزعة عقدة لمفاوية، تأكد لاحقًا أنه سبب الإيدز."
+  },
+  {
+    "id": 18,
+    "title_fr": "Invention de la réaction en chaîne par polymérase",
+    "title_ar": "اختراع تفاعل البوليميراز المتسلسل",
+    "fr": "A conçu une méthode pour amplifier de façon exponentielle des séquences d'ADN spécifiques in vitro, devenant un outil fondamental en microbiologie et en diagnostic.",
+    "ar": "ابتكر طريقة لمضاعفة تسلسلات محددة من الحمض النووي أضعافًا مضاعفة خارج الجسم الحي، لتصبح أداة أساسية في علم الأحياء الدقيقة والتشخيص."
+  },
+  {
+    "id": 19,
+    "title_fr": "Les Archées reconnues comme domaine de vie distinct",
+    "title_ar": "الاعتراف بالعتائق كنطاق حياة مستقل",
+    "fr": "L'analyse comparative des séquences d'ARN ribosomique 16S a révélé que les archées sont aussi distinctes des bactéries que les deux le sont des eucaryotes.",
+    "ar": "كشف التحليل المقارن لتسلسلات الحمض النووي الريبوزي 16S أن العتائق مختلفة عن البكتيريا بقدر اختلاف كليهما عن حقيقيات النوى."
+  },
+  {
+    "id": 20,
+    "title_fr": "Découverte des écosystèmes des sources hydrothermales profondes",
+    "title_ar": "اكتشاف النظم البيئية للفتحات الحرارية المائية العميقة",
+    "fr": "A révélé des communautés denses de vie soutenues par des bactéries chimiosynthétiques plutôt que par la lumière du soleil, élargissant les limites connues des environnements habitables.",
+    "ar": "كشف عن مجتمعات كثيفة من الحياة تعتمد على بكتيريا كيميائية التخليق بدلاً من ضوء الشمس، موسعًا الحدود المعروفة للبيئات القابلة للسكن."
+  },
+  {
+    "id": 21,
+    "title_fr": "Helicobacter pylori lié aux ulcères d'estomac",
+    "title_ar": "ربط الملوية البوابية بقرحة المعدة",
+    "fr": "Marshall a bu une culture de la bactérie pour démontrer qu'elle causait la gastrite, renversant des décennies de croyance selon lesquelles le stress et l'acide seuls causaient les ulcères.",
+    "ar": "شرب مارشال مزرعة من البكتيريا لإثبات أنها تسبب التهاب المعدة، مما قلب عقودًا من الاعتقاد بأن التوتر والحمض وحدهما يسببان القرحة."
+  },
+  {
+    "id": 22,
+    "title_fr": "Premier génome bactérien entièrement séquencé",
+    "title_ar": "أول جينوم بكتيري يُفكّ تسلسله بالكامل",
+    "fr": "Le génome de Haemophilus influenzae fut la première séquence génomique complète de tout organisme libre.",
+    "ar": "كان جينوم Haemophilus influenzae أول تسلسل جينومي كامل لأي كائن حر المعيشة."
+  },
+  {
+    "id": 23,
+    "title_fr": "Premier génome archéen entièrement séquencé",
+    "title_ar": "أول جينوم عتائقي يُفكّ تسلسله بالكامل",
+    "fr": "Le séquençage du génome de Methanocaldococcus jannaschii a confirmé la distinction génétique profonde des archées par rapport aux bactéries.",
+    "ar": "أكد تسلسل جينوم Methanocaldococcus jannaschii الاختلاف الجيني العميق للعتائق عن البكتيريا."
+  },
+  {
+    "id": 24,
+    "title_fr": "Lancement du Human Microbiome Project",
+    "title_ar": "إطلاق مشروع الميكروبيوم البشري",
+    "fr": "Une initiative à grande échelle pour cataloguer les communautés microbiennes vivant dans et sur le corps humain, transformant la compréhension de la santé et de la maladie.",
+    "ar": "مبادرة واسعة النطاق لفهرسة المجتمعات الميكروبية التي تعيش داخل جسم الإنسان وعليه، مما غيّر فهم الصحة والمرض."
+  },
+  {
+    "id": 25,
+    "title_fr": "CRISPR-Cas9 développé comme outil d'édition génomique",
+    "title_ar": "تطوير CRISPR-Cas9 كأداة لتحرير الجينات",
+    "fr": "A adapté un mécanisme de défense immunitaire bactérien en un outil d'édition génomique programmable, valant le prix Nobel de chimie 2020.",
+    "ar": "حوّلت آلية دفاع مناعي بكتيرية إلى أداة قابلة للبرمجة لتحرير الجينات، مما أكسبها جائزة نوبل في الكيمياء عام 2020."
+  },
+  {
+    "id": 26,
+    "title_fr": "Identification et séquençage du SARS-CoV-2",
+    "title_ar": "تحديد وتسلسل فيروس كورونا SARS-CoV-2",
+    "fr": "Le virus derrière un groupe de cas de pneumonie a été identifié et son génome publié en quelques semaines, permettant une réponse diagnostique et vaccinale mondiale rapide.",
+    "ar": "حُدد الفيروس المسؤول عن تجمع حالات الالتهاب الرئوي ونُشر جينومه خلال أسابيع، مما مكّن من استجابة تشخيصية ولقاحية عالمية سريعة."
+  },
+  {
+    "id": 27,
+    "title_fr": "Découverte des enzymes de restriction",
+    "title_ar": "اكتشاف إنزيمات القطع",
+    "fr": "L'identification d'enzymes bactériennes coupant l'ADN à des séquences spécifiques a permis la technologie de l'ADN recombinant ; prix Nobel partagé en 1978.",
+    "ar": "مكّن تحديد إنزيمات بكتيرية تقطع الحمض النووي عند تسلسلات محددة من تقنية الحمض النووي المؤتلف؛ وتقاسموا جائزة نوبل عام 1978."
+  },
+  {
+    "id": 28,
+    "title_fr": "Premier organisme à ADN recombinant",
+    "title_ar": "أول كائن يحتوي على حمض نووي مؤتلف",
+    "fr": "A combiné de l'ADN d'espèces différentes dans un génome bactérien fonctionnel, fondant le génie génétique moderne.",
+    "ar": "دمج حمضًا نوويًا من أنواع مختلفة في جينوم بكتيري وظيفي، مؤسسًا الهندسة الوراثية الحديثة."
+  },
+  {
+    "id": 29,
+    "title_fr": "Des bactéries génétiquement modifiées produisent de l'insuline humaine",
+    "title_ar": "بكتيريا معدلة وراثيًا تنتج الإنسولين البشري",
+    "fr": "Escherichia coli a été modifiée pour produire de l'insuline humaine synthétique, premier médicament issu du génie génétique, approuvé en 1982.",
+    "ar": "هُندست الإشريكية القولونية لإنتاج الإنسولين البشري الاصطناعي، أول دواء ناتج عن الهندسة الوراثية، واعتُمد للاستخدام عام 1982."
+  },
+  {
+    "id": 30,
+    "title_fr": "Découverte des séquences CRISPR chez les bactéries",
+    "title_ar": "اكتشاف تسلسلات CRISPR في البكتيريا",
+    "fr": "Mojica a identifié des séquences d'ADN répétées chez les archées et les bactéries, plus tard comprises comme formant un système immunitaire adaptatif contre les virus.",
+    "ar": "حدد موخيكا تسلسلات حمض نووي متكررة لدى العتائق والبكتيريا، فُهم لاحقًا أنها تشكل نظام مناعة تكيفي ضد الفيروسات."
+  },
+  {
+    "id": 31,
+    "title_fr": "Un système CRISPR à propagation génétique inverse la résistance aux antibiotiques chez les bactéries",
+    "title_ar": "نظام دفع جيني قائم على CRISPR يعكس مقاومة المضادات الحيوية لدى البكتيريا",
+    "fr": "Le système pPro-MobV propage une cassette génétique basée sur CRISPR à travers des populations bactériennes, supprimant activement les gènes de résistance aux antibiotiques plutôt que de simplement tuer les cellules résistantes, y compris dans les biofilms.",
+    "ar": "ينشر نظام pPro-MobV حزمة وراثية قائمة على CRISPR عبر مجتمعات بكتيرية، حاذفًا بفعالية جينات مقاومة المضادات الحيوية بدلاً من مجرد قتل الخلايا المقاومة، بما في ذلك داخل الأغشية الحيوية."
+  }
+]

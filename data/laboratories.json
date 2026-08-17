@@ -1,0 +1,18 @@
+[
+  {"id":1,"name":"Pasteur Institute","location":"Paris, France","period":"Founded 1887, active today","scientists":"Louis Pasteur; Émile Roux; Alexandre Yersin; Charles Nicolle; Luc Montagnier; Françoise Barré-Sinoussi",
+   "significance":"Founded by Pasteur following the success of his rabies vaccine; became a leading center for microbiology and immunology, later the site of HIV's isolation in 1983.","confidence":"well-documented"},
+  {"id":2,"name":"Robert Koch's laboratory","location":"Berlin, Germany","period":"1880s","scientists":"Robert Koch; Friedrich Loeffler; Emil von Behring",
+   "significance":"Where Koch developed his postulates and identified the tuberculosis and cholera bacilli, training a generation of bacteriologists who went on to found the field in their own countries.","confidence":"well-documented"},
+  {"id":3,"name":"Cold Spring Harbor Laboratory","location":"New York, USA","period":"Founded 1890, active today","scientists":"Alfred Hershey; Martha Chase; Barbara McClintock",
+   "significance":"Site of the Hershey-Chase blender experiment confirming DNA as genetic material; remains a leading center for genetics and molecular biology research.","confidence":"well-documented"},
+  {"id":4,"name":"Rockefeller Institute for Medical Research","location":"New York, USA","period":"Founded 1901","scientists":"Oswald Avery; Colin MacLeod; Maclyn McCarty",
+   "significance":"Where Avery, MacLeod, and McCarty conducted the 1944 experiments identifying DNA as the carrier of genetic information.","confidence":"well-documented"},
+  {"id":5,"name":"Cavendish Laboratory","location":"Cambridge, England","period":"1953","scientists":"James Watson; Francis Crick",
+   "significance":"Where Watson and Crick built their model of the DNA double helix in 1953, using X-ray diffraction data produced by Rosalind Franklin and Maurice Wilkins at King's College London.","confidence":"reasonably-documented"},
+  {"id":6,"name":"Carl Woese's laboratory, University of Illinois","location":"Urbana-Champaign, USA","period":"1970s","scientists":"Carl Woese; George Fox",
+   "significance":"Where 16S rRNA sequencing revealed Archaea as a domain of life distinct from Bacteria in 1977.","confidence":"well-documented"},
+  {"id":7,"name":"Selman Waksman's laboratory, Rutgers University","location":"New Brunswick, New Jersey, USA","period":"1940s","scientists":"Selman Waksman; Albert Schatz",
+   "significance":"Where streptomycin was isolated from Streptomyces griseus in 1943, the first effective treatment for tuberculosis.","confidence":"well-documented"},
+  {"id":8,"name":"Doudna Laboratory, University of California, Berkeley","location":"Berkeley, California, USA","period":"2010s - present","scientists":"Jennifer Doudna; Emmanuelle Charpentier (collaborating from Umeå, Sweden)",
+   "significance":"Where research on bacterial CRISPR immune systems was developed into the CRISPR-Cas9 gene-editing tool, earning the 2020 Nobel Prize in Chemistry.","confidence":"well-documented"}
+]

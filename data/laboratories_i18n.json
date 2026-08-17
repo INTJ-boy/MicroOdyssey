@@ -1,0 +1,18 @@
+[
+  {"id":1,"significance_fr":"Fondé par Pasteur à la suite du succès de son vaccin contre la rage ; devenu un centre majeur de microbiologie et d'immunologie, plus tard le site de l'isolation du VIH en 1983.",
+   "significance_ar":"أُسس على يد باستور بعد نجاح لقاحه ضد داء الكلب؛ وأصبح مركزًا رائدًا لعلم الأحياء الدقيقة والمناعة، وموقعًا لعزل فيروس نقص المناعة البشرية لاحقًا عام 1983."},
+  {"id":2,"significance_fr":"Où Koch a développé ses postulats et identifié les bacilles de la tuberculose et du choléra, formant une génération de bactériologistes qui ont fondé ce domaine dans leurs propres pays.",
+   "significance_ar":"حيث طوّر كوخ مسلماته وحدد عصيتي السل والكوليرا، ودرّب جيلاً من علماء الجراثيم الذين أسسوا هذا المجال في بلدانهم."},
+  {"id":3,"significance_fr":"Site de l'expérience du mixeur de Hershey et Chase confirmant l'ADN comme matériel génétique ; reste un centre majeur de recherche en génétique et biologie moléculaire.",
+   "significance_ar":"موقع تجربة الخلاط لهيرشي وتشيس التي أكدت أن الحمض النووي هو المادة الوراثية؛ ولا يزال مركزًا رائدًا لأبحاث الوراثة والبيولوجيا الجزيئية."},
+  {"id":4,"significance_fr":"Où Avery, MacLeod et McCarty ont mené en 1944 les expériences identifiant l'ADN comme porteur de l'information génétique.",
+   "significance_ar":"حيث أجرى إيفري وماكليود ومكارتي عام 1944 التجارب التي حددت الحمض النووي كحامل للمعلومات الوراثية."},
+  {"id":5,"significance_fr":"Où Watson et Crick ont construit leur modèle de la double hélice de l'ADN en 1953, en utilisant les données de diffraction aux rayons X produites par Rosalind Franklin et Maurice Wilkins au King's College de Londres.",
+   "significance_ar":"حيث بنى واتسون وكريك نموذجهما للحلزون المزدوج للحمض النووي عام 1953، باستخدام بيانات حيود الأشعة السينية التي أنتجتها روزاليند فرانكلين وموريس ويلكنز في كينغز كوليدج لندن."},
+  {"id":6,"significance_fr":"Où le séquençage de l'ARNr 16S a révélé les Archées comme domaine de vie distinct des Bactéries en 1977.",
+   "significance_ar":"حيث كشف تسلسل الحمض النووي الريبوزي 16S أن العتائق نطاق حياة مستقل عن البكتيريا عام 1977."},
+  {"id":7,"significance_fr":"Où la streptomycine a été isolée de Streptomyces griseus en 1943, premier traitement efficace contre la tuberculose.",
+   "significance_ar":"حيث عُزل الستربتوميسين من Streptomyces griseus عام 1943، أول علاج فعّال للسل."},
+  {"id":8,"significance_fr":"Où la recherche sur les systèmes immunitaires bactériens CRISPR a été transformée en outil d'édition génomique CRISPR-Cas9, valant le prix Nobel de chimie 2020.",
+   "significance_ar":"حيث تحوّلت أبحاث أنظمة المناعة البكتيرية CRISPR إلى أداة تحرير جينات CRISPR-Cas9، مما أكسبها جائزة نوبل في الكيمياء عام 2020."}
+]

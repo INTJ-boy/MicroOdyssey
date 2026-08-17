@@ -1,0 +1,505 @@
+{
+  "domains": {
+    "Bacteria": {
+      "fr": "Bactérie",
+      "ar": "بكتيريا"
+    },
+    "Archaea": {
+      "fr": "Archée",
+      "ar": "عتائق"
+    },
+    "Fungi": {
+      "fr": "Champignon",
+      "ar": "فطريات"
+    },
+    "Protozoa": {
+      "fr": "Protozoaire",
+      "ar": "أوليات"
+    },
+    "Algae": {
+      "fr": "Algue",
+      "ar": "طحالب"
+    },
+    "Virus": {
+      "fr": "Virus",
+      "ar": "فيروس"
+    }
+  },
+  "species": [
+    {
+      "id": 1,
+      "fr": "Isolée pour la première fois dans les selles d'un nourrisson ; devenue l'organisme modèle le plus étudié en biologie moléculaire.",
+      "ar": "عُزلت لأول مرة من براز رضيع؛ وأصبحت الكائن النموذجي الأكثر دراسة في علم الأحياء الجزيئي."
+    },
+    {
+      "id": 2,
+      "fr": "Identifié dans le pus d'un abcès chirurgical, établissant un lien direct entre bactéries et suppuration.",
+      "ar": "تم التعرف عليها في صديد خراج جراحي، مما ربط البكتيريا مباشرة بتكوّن القيح."
+    },
+    {
+      "id": 3,
+      "fr": "Nommé et caractérisé comme l'agent de l'érysipèle et des infections de plaies.",
+      "ar": "سُمّيت ووُصفت بأنها العامل المسبب للحمرة والتهابات الجروح."
+    },
+    {
+      "id": 4,
+      "fr": "Son annonce a satisfait les postulats de Koch et fondé la bactériologie médicale moderne.",
+      "ar": "حقق الإعلان عنها مسلمات كوخ وأسس علم الجراثيم الطبي الحديث."
+    },
+    {
+      "id": 5,
+      "fr": "Premier à décrire le bacille en forme de virgule chez les victimes du choléra ; confirmé comme agent causal par Koch en 1883.",
+      "ar": "أول من وصف العصية الشبيهة بالفاصلة لدى ضحايا الكوليرا؛ وأكد كوخ أنها العامل المسبب عام 1883."
+    },
+    {
+      "id": 6,
+      "fr": "Première bactérie jamais prouvée comme cause d'une maladie spécifique, établissant expérimentalement la théorie des germes.",
+      "ar": "أول بكتيريا تُثبت تجريبيًا أنها تسبب مرضًا محددًا، مما أرسى نظرية الجراثيم عمليًا."
+    },
+    {
+      "id": 7,
+      "fr": "Isolée durant la troisième pandémie de peste, identifiant l'agent de la peste bubonique.",
+      "ar": "عُزلت أثناء الجائحة الثالثة للطاعون، محددة العامل المسبب للطاعون الدبلي."
+    },
+    {
+      "id": 8,
+      "fr": "Eberth a observé le bacille dans des tissus typhoïdiques ; Gaffky en a obtenu une culture pure en 1884.",
+      "ar": "لاحظ إبرت العصية في أنسجة مصابة بحمى التيفوئيد؛ وحصل غافكي على مزرعة نقية منها عام 1884."
+    },
+    {
+      "id": 9,
+      "fr": "Première culture pure du bacille tétanique, permettant la recherche sur la toxine et l'antitoxine.",
+      "ar": "أول مزرعة نقية لعصية الكزاز، مما مكّن من أبحاث السموم ومضادات السموم."
+    },
+    {
+      "id": 10,
+      "fr": "Isolée après une épidémie mortelle liée à du jambon, identifiant la source du botulisme.",
+      "ar": "عُزلت بعد تفشٍّ مميت مرتبط بلحم الخنزير المقدد، محددة مصدر التسمم الوشيقي."
+    },
+    {
+      "id": 11,
+      "fr": "Loeffler a cultivé le bacille décrit par Klebs, menant plus tard à l'antitoxine diphtérique.",
+      "ar": "زرع لوفلر العصية التي وصفها كليبس، مما أدى لاحقًا إلى مضاد سموم الدفتيريا."
+    },
+    {
+      "id": 12,
+      "fr": "Isolation du bacille de la coqueluche, utilisé plus tard pour développer le vaccin contre la coqueluche.",
+      "ar": "عزل عصية السعال الديكي، التي استُخدمت لاحقًا لتطوير لقاح السعال الديكي."
+    },
+    {
+      "id": 13,
+      "fr": "Première identification du gonocoque, reliant une bactérie spécifique à une infection sexuellement transmissible.",
+      "ar": "أول تعريف للمكورة البنية، رابطة بكتيريا محددة بمرض منقول جنسيًا."
+    },
+    {
+      "id": 14,
+      "fr": "Identification du spirochète responsable de la syphilis grâce à la microscopie à fond noir.",
+      "ar": "التعرف على اللولبية المسؤولة عن مرض الزهري باستخدام المجهر ذي المجال المظلم."
+    },
+    {
+      "id": 15,
+      "fr": "A renversé la croyance selon laquelle les ulcères étaient causés par le stress ; Marshall a célèbrement ingéré la bactérie pour prouver la causalité.",
+      "ar": "قلبت الاعتقاد بأن القرحة سببها التوتر؛ حيث ابتلع مارشال البكتيريا بنفسه بشكل مشهور لإثبات السببية."
+    },
+    {
+      "id": 16,
+      "fr": "Isolée après l'épidémie survenue lors du congrès de l'American Legion à Philadelphie en 1976.",
+      "ar": "عُزلت بعد تفشٍّ حدث خلال مؤتمر الفيلق الأمريكي في فيلادلفيا عام 1976."
+    },
+    {
+      "id": 17,
+      "fr": "Décrite lors d'une épidémie chez des lapins et cobayes de laboratoire.",
+      "ar": "وُصفت أثناء تفشٍّ بين أرانب وخنازير غينيا في المختبر."
+    },
+    {
+      "id": 18,
+      "fr": "Isolée à partir d'un écoulement de plaie bleu-vert (« pyocyanine »), le pigment qui lui donne son nom.",
+      "ar": "عُزلت من إفرازات جرح أزرق مخضر (البيوسيانين)، الصبغة التي تحمل اسمها."
+    },
+    {
+      "id": 19,
+      "fr": "Identifiée comme cause d'une pneumonie bactérienne sévère, d'abord appelée bacille de Friedländer.",
+      "ar": "حُددت كسبب لالتهاب رئوي بكتيري شديد، وسُميت في البداية عصية فريدلاندر."
+    },
+    {
+      "id": 20,
+      "fr": "Nommée d'après le dieu grec Protée, pour ses colonies mouvantes qui changent de forme.",
+      "ar": "سُميت نسبة إلى الإله الإغريقي بروتيوس، لمستعمراتها المتحركة المتغيرة الشكل."
+    },
+    {
+      "id": 21,
+      "fr": "Identifiée lors d'une importante épidémie de dysenterie au Japon.",
+      "ar": "حُددت أثناء تفشٍّ كبير للزحار في اليابان."
+    },
+    {
+      "id": 22,
+      "fr": "Le développement de milieux de culture sélectifs a révélé qu'elle est une cause majeure de diarrhée bactérienne.",
+      "ar": "كشف تطوير أوساط زرع انتقائية أنها سبب رئيسي للإسهال البكتيري."
+    },
+    {
+      "id": 23,
+      "fr": "Isolée à partir de tiques, identifiant le spirochète responsable de la maladie de Lyme.",
+      "ar": "عُزلت من القراد، محددة اللولبية المسؤولة عن مرض لايم."
+    },
+    {
+      "id": 24,
+      "fr": "Identifiée comme cause de la maladie de Weil lors d'une étude sur des mineurs infectés.",
+      "ar": "حُددت كسبب لمرض ويل أثناء دراسة على عمال مناجم مصابين."
+    },
+    {
+      "id": 25,
+      "fr": "Isolée dans le comté de Tulare, en Californie, lors d'une maladie ressemblant à la peste chez des écureuils terrestres.",
+      "ar": "عُزلت في مقاطعة تولاري بكاليفورنيا أثناء مرض شبيه بالطاعون لدى السناجب الأرضية."
+    },
+    {
+      "id": 26,
+      "fr": "Identifiée comme cause de la fièvre de Malte parmi les troupes de la garnison britannique.",
+      "ar": "حُددت كسبب لحمى مالطا بين جنود الحامية البريطانية."
+    },
+    {
+      "id": 27,
+      "fr": "Première bactérie jamais associée à une maladie humaine, antérieure aux postulats de Koch.",
+      "ar": "أول بكتيريا تُربط بمرض بشري، سابقة لمسلمات كوخ."
+    },
+    {
+      "id": 28,
+      "fr": "Identifiée comme l'agent du typhus épidémique ; nommée à titre posthume en l'honneur de von Prowazek, mort de cette maladie.",
+      "ar": "حُددت كعامل مسبب للتيفوس الوبائي؛ وسُميت بعد وفاته تكريمًا لفون بروفاتسيك الذي توفي بسبب المرض."
+    },
+    {
+      "id": 29,
+      "fr": "Observation de corps d'inclusion caractéristiques dans des tissus oculaires infectés par le trachome.",
+      "ar": "لوحظت أجسام شمولية مميزة في أنسجة العين المصابة بالتراخوما."
+    },
+    {
+      "id": 30,
+      "fr": "Isolée indépendamment par Pasteur et Sternberg à partir de salive, plus tard identifiée comme la principale cause de pneumonie bactérienne.",
+      "ar": "عزلها باستور وسترنبرغ بشكل مستقل من اللعاب، وحُددت لاحقًا كسبب رئيسي لالتهاب الرئة البكتيري."
+    },
+    {
+      "id": 31,
+      "fr": "Décrit pour la première fois comme une coccus intestinale distincte, reclassé hors du genre Streptococcus en 1984.",
+      "ar": "وُصفت لأول مرة كمكورة معوية مستقلة، وأُعيد تصنيفها خارج جنس العقديات عام 1984."
+    },
+    {
+      "id": 32,
+      "fr": "La description de Cohn a contribué à fonder la taxonomie bactérienne et l'étude des endospores.",
+      "ar": "ساعد وصف كون في تأسيس تصنيف البكتيريا ودراسة الأبواغ الداخلية."
+    },
+    {
+      "id": 33,
+      "fr": "Isolée du yaourt traditionnel bulgare, étudiée plus tard par Élie Metchnikoff pour son lien avec la longévité.",
+      "ar": "عُزلت من الزبادي البلغاري التقليدي، ودرسها لاحقًا إيلي متشنيكوف لعلاقتها المفترضة بطول العمر."
+    },
+    {
+      "id": 34,
+      "fr": "Source de la streptomycine, le premier traitement antibiotique efficace contre la tuberculose.",
+      "ar": "مصدر الستربتوميسين، أول مضاد حيوي فعّال لعلاج السل."
+    },
+    {
+      "id": 35,
+      "fr": "Première isolation d'une bactérie fixatrice d'azote des nodosités racinaires, fondant la microbiologie des sols.",
+      "ar": "أول عزل لبكتيريا مثبتة للنيتروجين في عقد الجذور، مما أسس علم أحياء التربة الدقيقة."
+    },
+    {
+      "id": 36,
+      "fr": "Organisme central dans la découverte par Winogradsky de la chimiolithotrophie et du cycle de l'azote.",
+      "ar": "كائن محوري في اكتشاف فينوغرادسكي للتغذية الكيميائية الصخرية ودورة النيتروجين."
+    },
+    {
+      "id": 37,
+      "fr": "A démontré que des bactéries pouvaient tirer leur énergie uniquement de l'oxydation de composés soufrés.",
+      "ar": "أثبتت أن البكتيريا يمكن أن تستمد طاقتها فقط من أكسدة مركبات الكبريت."
+    },
+    {
+      "id": 38,
+      "fr": "Isolée d'une viande en conserve stérilisée par rayonnement gamma, révélant une résistance extrême aux radiations.",
+      "ar": "عُزلت من لحم معلب عُقّم بالأشعة غاما، كاشفة عن مقاومة شديدة للإشعاع."
+    },
+    {
+      "id": 39,
+      "fr": "Sa Taq polymérase thermostable est devenue plus tard essentielle à la méthode PCR.",
+      "ar": "أصبح إنزيمها المقاوم للحرارة لاحقًا أساسيًا في تقنية تفاعل البوليميراز المتسلسل."
+    },
+    {
+      "id": 40,
+      "fr": "Caractérisée comme un organisme clé de l'écologie polymicrobienne de la bouche humaine.",
+      "ar": "وُصفت كعنصر رئيسي في البيئة الميكروبية المتعددة داخل الفم البشري."
+    },
+    {
+      "id": 41,
+      "fr": "Reclassée dans son propre genre après avoir été étudiée comme pathogène principal des maladies parodontales.",
+      "ar": "أُعيد تصنيفها في جنس خاص بها بعد دراستها كمُمْرِض رئيسي في أمراض اللثة."
+    },
+    {
+      "id": 42,
+      "fr": "L'une des premières bactéries intestinales anaérobies caractérisées, aujourd'hui reconnue comme un symbiote dominant de l'intestin humain.",
+      "ar": "من أوائل بكتيريا الأمعاء اللاهوائية التي وُصفت، وتُعرف الآن كأحد أهم الكائنات المتعايشة في أمعاء الإنسان."
+    },
+    {
+      "id": 43,
+      "fr": "Devenu le premier organisme photosynthétique dont le génome complet a été séquencé, en 1996.",
+      "ar": "أصبحت أول كائن ضوئي التخليق يُفكّ تسلسل جينومه بالكامل، عام 1996."
+    },
+    {
+      "id": 44,
+      "fr": "Organisme modèle pour l'étude des hétérocystes fixateurs d'azote chez les cyanobactéries filamenteuses.",
+      "ar": "كائن نموذجي لدراسة الخلايا الغيرية المثبتة للنيتروجين في البكتيريا الزرقاء الخيطية."
+    },
+    {
+      "id": 45,
+      "fr": "Dépourvue de membranes thylakoïdes internes, ce qui en fait un organisme clé pour l'étude de l'évolution de la photosynthèse.",
+      "ar": "تفتقر إلى أغشية الثايلاكويد الداخلية، مما يجعلها كائنًا رئيسيًا لدراسة تطور عملية التخليق الضوئي."
+    },
+    {
+      "id": 46,
+      "fr": "L'une des premières archées étudiées ; sa pompe à protons activée par la lumière, la bactériorhodopsine, est devenue une découverte marquante.",
+      "ar": "من أوائل العتائق التي دُرست؛ وأصبحت مضخة البروتون المدفوعة بالضوء اكتشافًا بارزًا."
+    },
+    {
+      "id": 47,
+      "fr": "Isolée de sources chaudes acides, repoussant les limites connues de la vie face à la chaleur et à l'acidité extrêmes.",
+      "ar": "عُزلت من ينابيع حارة حمضية، موسّعة الحدود المعروفة للحياة لتشمل الحرارة والحموضة الشديدتين."
+    },
+    {
+      "id": 48,
+      "fr": "Premier génome archéen entièrement séquencé, en 1996, révélant les archées comme un domaine de vie distinct.",
+      "ar": "أول جينوم عتائقي يُفكّ تسلسله بالكامل، عام 1996، كاشفًا أن العتائق نطاق مستقل من نطاقات الحياة."
+    },
+    {
+      "id": 49,
+      "fr": "Hyperthermophile se développant de manière optimale près de 100 °C, plus tard source de la Pfu polymérase thermostable.",
+      "ar": "كائن مفرط في محبة الحرارة ينمو بشكل أمثل قرب 100 درجة مئوية، وأصبح لاحقًا مصدرًا لإنزيم Pfu بوليميراز المقاوم للحرارة."
+    },
+    {
+      "id": 50,
+      "fr": "Un symbiote obligatoire si minimaliste qu'il a fondé un tout nouveau phylum archéen.",
+      "ar": "كائن متعايش إجباري بالغ الصغر لدرجة أنه أسس شعبة عتائقية جديدة بالكامل."
+    },
+    {
+      "id": 51,
+      "fr": "L'archée dominante du microbiote intestinal humain, impliquée dans l'élimination de l'hydrogène pendant la digestion.",
+      "ar": "العتيقة المهيمنة في ميكروبيوم أمعاء الإنسان، وتشارك في إزالة الهيدروجين أثناء الهضم."
+    },
+    {
+      "id": 52,
+      "fr": "Devenue un organisme modèle génétique clé pour l'étude de la réplication et de la réparation de l'ADN archéen.",
+      "ar": "أصبحت كائنًا نموذجيًا وراثيًا رئيسيًا لدراسة تضاعف وإصلاح الحمض النووي لدى العتائق."
+    },
+    {
+      "id": 53,
+      "fr": "Les études de Pasteur sur sa fermentation ont prouvé que ce sont les micro-organismes, et non une chimie spontanée, qui causent la fermentation.",
+      "ar": "أثبتت دراسات باستور حول تخمرها أن الكائنات الدقيقة، لا الكيمياء التلقائية، هي المسؤولة عن التخمر."
+    },
+    {
+      "id": 54,
+      "fr": "Sa contamination accidentelle d'une culture bactérienne a mené à la découverte de la pénicilline.",
+      "ar": "أدى تلوثها العرضي لمزرعة بكتيرية إلى اكتشاف البنسلين."
+    },
+    {
+      "id": 55,
+      "fr": "Premier pathogène fongique observé chez un patient humain (muguet), des décennies avant l'établissement de la théorie des germes.",
+      "ar": "أول ممرض فطري يُلاحظ لدى مريض بشري، قبل عقود من إرساء نظرية الجراثيم."
+    },
+    {
+      "id": 56,
+      "fr": "Parmi les premiers champignons formellement décrits ; devenu plus tard un pilier de la production industrielle d'acide citrique.",
+      "ar": "من أوائل الفطريات التي وُصفت رسميًا؛ وأصبحت لاحقًا ركيزة أساسية في الإنتاج الصناعي لحمض الستريك."
+    },
+    {
+      "id": 57,
+      "fr": "Identifié comme cause de maladie pulmonaire chez les oiseaux, plus tard reconnu comme un pathogène respiratoire humain majeur.",
+      "ar": "حُدد كسبب لمرض رئوي لدى الطيور، ثم عُرف لاحقًا كممرض تنفسي بشري رئيسي."
+    },
+    {
+      "id": 58,
+      "fr": "Décrit pour la première fois à partir d'une lésion osseuse humaine, plus tard reconnu comme une cause majeure de méningite fongique.",
+      "ar": "وُصف لأول مرة من آفة عظمية بشرية، ثم عُرف لاحقًا كسبب رئيسي لالتهاب السحايا الفطري."
+    },
+    {
+      "id": 59,
+      "fr": "Caractérisé par Sabouraud, fondateur de la mycologie médicale, comme cause majeure de la teigne.",
+      "ar": "وصفه سابورو، مؤسس علم الفطريات الطبي، كسبب رئيسي للسعفة."
+    },
+    {
+      "id": 60,
+      "fr": "Initialement confondu avec un parasite protozoaire dans des tissus d'autopsie avant d'être reconnu comme un champignon.",
+      "ar": "أُخطئ في تحديده كطفيلي أولي في أنسجة تشريحية قبل أن يُعرف كفطر."
+    },
+    {
+      "id": 61,
+      "fr": "Décrit pour la première fois à partir de lésions cutanées d'un soldat ; longtemps confondu avec un protozoaire avant la confirmation de sa nature fongique.",
+      "ar": "وُصف لأول مرة من آفات جلدية لدى جندي؛ وخُلط لفترة طويلة بأنه أولي قبل تأكيد طبيعته الفطرية."
+    },
+    {
+      "id": 62,
+      "fr": "Longtemps classé comme protozoaire ; des preuves génétiques dans les années 1980 l'ont reclassé comme champignon.",
+      "ar": "صُنف لفترة طويلة كأولي؛ وأعادت الأدلة الجينية في الثمانينيات تصنيفه كفطر."
+    },
+    {
+      "id": 63,
+      "fr": "Moisissure noire courante du pain ; modèle classique pour l'étude de la dispersion des spores fongiques.",
+      "ar": "عفن الخبز الأسود الشائع؛ نموذج كلاسيكي لدراسة انتشار الأبواغ الفطرية."
+    },
+    {
+      "id": 64,
+      "fr": "Le champignon de l'ergot, dont les alcaloïdes ont provoqué des épidémies d'empoisonnement historiques et inspiré plus tard la recherche sur le LSD.",
+      "ar": "فطر الإرغوت، الذي تسببت قلويداته في أوبئة تسمم تاريخية وألهمت لاحقًا أبحاث عقار LSD."
+    },
+    {
+      "id": 65,
+      "fr": "Les travaux de Beadle et Tatum sur cette moisissure ont établi l'hypothèse « un gène, un enzyme ».",
+      "ar": "أرست أعمال بيدل وتاتوم على هذا العفن فرضية جين واحد، إنزيم واحد."
+    },
+    {
+      "id": 66,
+      "fr": "Isolée d'une bière de millet d'Afrique de l'Est ; devenue un organisme modèle clé pour la recherche sur le cycle cellulaire.",
+      "ar": "عُزلت من جعة الدخن في شرق أفريقيا؛ وأصبحت كائنًا نموذجيًا رئيسيًا لأبحاث دورة الخلية."
+    },
+    {
+      "id": 67,
+      "fr": "Le champignon du charbon du maïs, devenu plus tard un modèle pour l'étude de la pathogenèse fongique des plantes et de la réparation de l'ADN.",
+      "ar": "فطر تفحم الذرة، الذي أصبح لاحقًا نموذجًا لدراسة إمراضية الفطريات النباتية وإصلاح الحمض النووي."
+    },
+    {
+      "id": 68,
+      "fr": "Première observation d'un parasite protozoaire comme cause d'une maladie humaine, le paludisme.",
+      "ar": "أول ملاحظة لطفيلي أولي كسبب لمرض بشري، هو الملاريا."
+    },
+    {
+      "id": 69,
+      "fr": "Golgi a relié les cycles de fièvre à la reproduction synchronisée du parasite dans le sang.",
+      "ar": "ربط غولجي دورات الحمى بالتكاثر المتزامن للطفيلي في مرحلة الدم."
+    },
+    {
+      "id": 70,
+      "fr": "Premier protozoaire démontré comme cause de dysenterie, isolé chez un patient à Saint-Pétersbourg.",
+      "ar": "أول أولي يثبت أنه يسبب الزحار، عُزل من مريض في سانت بطرسبرغ."
+    },
+    {
+      "id": 71,
+      "fr": "Observé par Leeuwenhoek dans ses propres selles diarrhéiques, l'un des tout premiers protozoaires jamais décrits.",
+      "ar": "لاحظه ليفينهوك في برازه المصاب بالإسهال، وهو من أوائل الأوليات التي وُصفت على الإطلاق."
+    },
+    {
+      "id": 72,
+      "fr": "Identifié comme cause du nagana chez les bovins, plus tard lié à la maladie du sommeil africaine.",
+      "ar": "حُدد كسبب لمرض الناغانا في الأبقار، ثم رُبط لاحقًا بمرض النوم الأفريقي."
+    },
+    {
+      "id": 73,
+      "fr": "Fait unique, Chagas a décrit le parasite, le vecteur et la maladie dans une seule publication.",
+      "ar": "بشكل فريد، وصف شاغاس الطفيلي والناقل والمرض في منشور واحد."
+    },
+    {
+      "id": 74,
+      "fr": "Observé pour la première fois chez un rongeur d'Afrique du Nord, le gondi, qui a donné son nom au parasite.",
+      "ar": "لوحظ لأول مرة لدى قارض من شمال أفريقيا يسمى الغُندي، الذي أعطى الطفيلي اسمه."
+    },
+    {
+      "id": 75,
+      "fr": "Identifié indépendamment par les deux chercheurs comme cause de la leishmaniose viscérale (kala-azar).",
+      "ar": "حدده الباحثان بشكل مستقل كسبب لداء الليشمانيات الحشوي."
+    },
+    {
+      "id": 76,
+      "fr": "L'un des tout premiers parasites protozoaires humains décrits grâce aux premiers microscopes.",
+      "ar": "من أوائل الطفيليات الأولية البشرية التي وُصفت باستخدام المجاهر المبكرة."
+    },
+    {
+      "id": 77,
+      "fr": "Identifié chez des patients souffrant de diarrhée sévère ; reste le seul cilié connu à infecter l'humain.",
+      "ar": "حُدد لدى مرضى يعانون إسهالًا شديدًا؛ ويبقى الهدبي الوحيد المعروف بإصابته للإنسان."
+    },
+    {
+      "id": 78,
+      "fr": "Identifié comme cause d'une infection cérébrale rare et souvent mortelle liée à l'exposition à de l'eau douce.",
+      "ar": "حُددت كسبب لعدوى دماغية نادرة وغالبًا ما تكون قاتلة ناتجة عن التعرض للمياه العذبة."
+    },
+    {
+      "id": 79,
+      "fr": "L'un des tout premiers ciliés jamais observés au microscope ; devenu plus tard un organisme modèle fondamental en génétique.",
+      "ar": "من أوائل الهدبيات التي شوهدت تحت المجهر على الإطلاق؛ وأصبح لاحقًا كائنًا نموذجيًا أساسيًا في علم الوراثة."
+    },
+    {
+      "id": 80,
+      "fr": "Ses caractéristiques mixtes, à la fois végétales et animales, en ont fait un élément central des premiers débats sur la frontière entre les règnes.",
+      "ar": "جعلت خصائصها المزدوجة الشبيهة بالنبات والحيوان منها محورًا للنقاشات المبكرة حول الحدود بين الممالك الحيوية."
+    },
+    {
+      "id": 81,
+      "fr": "Devenu un organisme modèle de premier plan pour la recherche sur la photosynthèse et la biologie des flagelles.",
+      "ar": "أصبح كائنًا نموذجيًا رائدًا في أبحاث التخليق الضوئي وبيولوجيا الأسواط."
+    },
+    {
+      "id": 82,
+      "fr": "Première microalgue isolée en culture pure, étudiée intensivement plus tard pour la recherche sur la photosynthèse.",
+      "ar": "أول طحلب مجهري يُعزل في مزرعة نقية، ودُرس بشكل مكثف لاحقًا في أبحاث التخليق الضوئي."
+    },
+    {
+      "id": 83,
+      "fr": "Longtemps récoltée comme source alimentaire traditionnelle avant d'être étudiée comme cyanobactérie riche en nutriments.",
+      "ar": "حُصدت لفترة طويلة كمصدر غذائي تقليدي قبل أن تُدرس كبكتيريا زرقاء غنية بالعناصر الغذائية."
+    },
+    {
+      "id": 84,
+      "fr": "Ses sphères coloniales roulantes comptent parmi les premières formes de vie microscopiques complexes jamais documentées.",
+      "ar": "كانت كراتها الاستعمارية المتدحرجة من أوائل أشكال الحياة المجهرية المعقدة التي وُثّقت على الإطلاق."
+    },
+    {
+      "id": 85,
+      "fr": "Ivanovsky a montré que l'agent traversait des filtres qui retenaient les bactéries ; Beijerinck l'a nommé « contagium vivum fluidum » en 1898, fondant la virologie.",
+      "ar": "أظهر إيفانوفسكي أن العامل يمر عبر مرشحات تحتجز البكتيريا؛ وسماه بيّرينك مادة العدوى الحية السائلة عام 1898، مؤسسًا علم الفيروسات."
+    },
+    {
+      "id": 86,
+      "fr": "A inventé le terme « bactériophage » après avoir observé des virus tuant des bactéries, plus tard central en biologie moléculaire.",
+      "ar": "صاغ مصطلح العاثية بعد ملاحظته فيروسات تقتل البكتيريا، وأصبح لاحقًا محوريًا في علم الأحياء الجزيئي."
+    },
+    {
+      "id": 87,
+      "fr": "Première isolation d'un virus de la grippe humaine, en utilisant des furets comme modèle animal.",
+      "ar": "أول عزل لفيروس الإنفلونزا البشري، باستخدام حيوانات النمس كنموذج حيواني."
+    },
+    {
+      "id": 88,
+      "fr": "A démontré que la poliomyélite était causée par un virus filtrable en le transmettant à des singes.",
+      "ar": "أثبتا أن شلل الأطفال ناتج عن فيروس قابل للترشيح من خلال نقله إلى القرود."
+    },
+    {
+      "id": 89,
+      "fr": "Première isolation réussie du virus en culture tissulaire, permettant le développement ultérieur d'un vaccin.",
+      "ar": "أول عزل ناجح للفيروس في مزرعة نسيجية، مما مكّن لاحقًا من تطوير اللقاح."
+    },
+    {
+      "id": 90,
+      "fr": "Isolé à partir d'une biopsie ganglionnaire, identifiant le rétrovirus responsable du sida.",
+      "ar": "عُزل من خزعة عقدة لمفاوية، محددًا الفيروس القهقري المسبب للإيدز."
+    },
+    {
+      "id": 91,
+      "fr": "Issu de la découverte par Blumberg de « l'antigène Australia », plus tard identifié comme la protéine de surface virale.",
+      "ar": "نشأ عن اكتشاف بلومبرغ لمستضد أستراليا، الذي حُدد لاحقًا كبروتين سطحي فيروسي."
+    },
+    {
+      "id": 92,
+      "fr": "Identifié lors d'épidémies simultanées près de la rivière Ebola, qui lui a donné son nom.",
+      "ar": "حُدد أثناء تفشّيات متزامنة قرب نهر إيبولا، الذي أعطى الفيروس اسمه."
+    },
+    {
+      "id": 93,
+      "fr": "Séquencé quelques semaines après les premiers cas signalés de pneumonie groupée, permettant une réponse mondiale rapide.",
+      "ar": "فُكّ تسلسله الجيني خلال أسابيع من أول تجمع مبلغ عنه لحالات الالتهاب الرئوي، مما مكّن من استجابة عالمية سريعة."
+    },
+    {
+      "id": 94,
+      "fr": "L'identification par zur Hausen des types de HPV à haut risque dans le cancer du col de l'utérus lui a valu le prix Nobel 2008.",
+      "ar": "أدى تحديد تسور هاوزن لأنماط فيروس الورم الحليمي البشري عالية الخطورة في سرطان عنق الرحم إلى فوزه بجائزة نوبل عام 2008."
+    },
+    {
+      "id": 95,
+      "fr": "Un extrêmophile résistant aux UV et à la vancomycine, isolé de sédiments d'un lac antarctique en 2026 et nommé en l'honneur de l'océanographe pionnière Dr Aditi Pant.",
+      "ar": "كائن مفرط التحمل مقاوم للأشعة فوق البنفسجية ومضاد الفانكومايسين، عُزل من رواسب بحيرة في القارة القطبية الجنوبية عام 2026، وسُمي تكريمًا لعالمة المحيطات الرائدة الدكتورة أديتي بانت."
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "First observation of microscopic life",
+    "year": 1676,
+    "location": "Delft, Netherlands",
+    "people": "Antonie van Leeuwenhoek",
+    "summary": "Using a hand-ground single-lens microscope, Leeuwenhoek observed and described what he called animalcules in pond water, the first documented sighting of microorganisms.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 2,
+    "title": "Disproof of spontaneous generation",
+    "year": 1861,
+    "location": "Paris, France",
+    "people": "Louis Pasteur",
+    "summary": "Pasteur's swan-neck flask experiments showed that sterilized broth stayed free of microbial growth unless exposed to airborne particles, refuting spontaneous generation.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 3,
+    "title": "Antiseptic hand-washing reduces childbed fever",
+    "year": 1847,
+    "location": "Vienna, Austria",
+    "people": "Ignaz Semmelweis",
+    "summary": "Semmelweis showed that hand disinfection with chlorinated lime sharply cut maternal mortality, though germ theory did not yet exist to explain why.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 4,
+    "title": "Formulation of Koch's postulates",
+    "year": 1884,
+    "location": "Berlin, Germany",
+    "people": "Robert Koch",
+    "significance_note": "",
+    "summary": "Koch articulated a set of criteria for establishing a causal link between a microorganism and a disease, becoming the methodological foundation of medical microbiology.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 5,
+    "title": "Development of the Gram stain",
+    "year": 1884,
+    "location": "Berlin, Germany",
+    "people": "Hans Christian Gram",
+    "summary": "Gram's differential staining method distinguished bacteria by cell-wall structure and remains a first-line diagnostic tool.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 6,
+    "title": "First rabies vaccination in a human",
+    "year": 1885,
+    "location": "Paris, France",
+    "people": "Louis Pasteur",
+    "summary": "Pasteur administered his experimental rabies vaccine to a boy bitten by a rabid dog, one of the earliest successful uses of a lab-developed vaccine in humans.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 7,
+    "title": "Discovery of viruses as filterable agents",
+    "year": 1892,
+    "location": "Russia / Netherlands",
+    "people": "Dmitri Ivanovsky; Martinus Beijerinck",
+    "summary": "Ivanovsky showed the tobacco mosaic agent passed through bacteria-trapping filters; Beijerinck's 1898 follow-up work named it a contagium vivum fluidum, founding virology.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 8,
+    "title": "Discovery of bacteriophages",
+    "year": 1917,
+    "location": "Paris, France",
+    "people": "Felix d'Herelle",
+    "summary": "D'Herelle identified viruses capable of infecting and destroying bacteria, coining the term bacteriophage; Frederick Twort had observed a similar phenomenon independently in 1915.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 9,
+    "title": "Discovery of penicillin",
+    "year": 1928,
+    "location": "London, England",
+    "people": "Alexander Fleming",
+    "summary": "Fleming noticed that Penicillium mold contamination on a culture plate killed nearby Staphylococcus colonies, launching the antibiotic era.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 10,
+    "title": "Discovery of bacterial transformation",
+    "year": 1928,
+    "location": "London, England",
+    "people": "Frederick Griffith",
+    "summary": "Griffith showed that harmless pneumococci could acquire virulence traits from heat-killed virulent bacteria, hinting at a transferable genetic substance.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 11,
+    "title": "DNA identified as the genetic material",
+    "year": 1944,
+    "location": "New York, USA",
+    "people": "Oswald Avery; Colin MacLeod; Maclyn McCarty",
+    "summary": "Building on Griffith's transformation experiment, this team showed DNA, not protein, carried pneumococcal genetic information.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 12,
+    "title": "Discovery of bacterial conjugation",
+    "year": 1946,
+    "location": "New Haven, USA",
+    "people": "Joshua Lederberg; Edward Tatum",
+    "summary": "Demonstrated that bacteria could exchange genetic material through direct cell-to-cell contact, founding the field of bacterial genetics.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 13,
+    "title": "Isolation of streptomycin",
+    "year": 1943,
+    "location": "New Jersey, USA",
+    "people": "Selman Waksman; Albert Schatz",
+    "summary": "Isolated from Streptomyces griseus, streptomycin became the first antibiotic effective against tuberculosis.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 14,
+    "title": "Discovery of transduction",
+    "year": 1952,
+    "location": "Madison, USA",
+    "people": "Norton Zinder; Joshua Lederberg",
+    "summary": "Showed that bacteriophages could transfer bacterial genes between cells, a third mechanism of horizontal gene transfer alongside conjugation and transformation.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 15,
+    "title": "Hershey-Chase experiment confirms DNA as genetic material",
+    "year": 1952,
+    "location": "Cold Spring Harbor, USA",
+    "people": "Alfred Hershey; Martha Chase",
+    "summary": "Using radioactively labeled bacteriophages, the experiment showed that DNA, not protein, is injected into bacteria to direct viral replication.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 16,
+    "title": "Elucidation of the DNA double helix",
+    "year": 1953,
+    "location": "Cambridge, England",
+    "people": "James Watson; Francis Crick; Rosalind Franklin; Maurice Wilkins",
+    "summary": "Watson and Crick's model, built on Franklin's X-ray diffraction data, revealed DNA's double-helix structure, transforming microbial genetics.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 17,
+    "title": "Isolation of HIV",
+    "year": 1983,
+    "location": "Paris, France",
+    "people": "Francoise Barre-Sinoussi; Luc Montagnier",
+    "summary": "Isolated a retrovirus from a lymph node biopsy that was later confirmed as the cause of AIDS.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 18,
+    "title": "Invention of the polymerase chain reaction",
+    "year": 1983,
+    "location": "California, USA",
+    "people": "Kary Mullis",
+    "summary": "Devised a method to exponentially amplify specific DNA sequences in vitro, becoming a foundational tool across microbiology and diagnostics.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 19,
+    "title": "Archaea recognized as a distinct domain of life",
+    "year": 1977,
+    "location": "Urbana, USA",
+    "people": "Carl Woese; George Fox",
+    "summary": "Comparative analysis of 16S ribosomal RNA sequences revealed that archaea are as distinct from bacteria as both are from eukaryotes.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 20,
+    "title": "Discovery of deep-sea hydrothermal vent ecosystems",
+    "year": 1977,
+    "location": "Galapagos Rift, Pacific Ocean",
+    "people": "researchers aboard the submersible Alvin",
+    "summary": "Found dense communities of life sustained by chemosynthetic bacteria rather than sunlight, expanding the known limits of habitable environments.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 21,
+    "title": "Helicobacter pylori linked to stomach ulcers",
+    "year": 1984,
+    "location": "Perth, Australia",
+    "people": "Barry Marshall; Robin Warren",
+    "summary": "Marshall drank a culture of the bacterium to demonstrate it caused gastritis, overturning decades of belief that ulcers were caused by stress and acid alone.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 22,
+    "title": "First bacterial genome fully sequenced",
+    "year": 1995,
+    "location": "Rockville, USA",
+    "people": "Craig Venter and colleagues, TIGR",
+    "summary": "The genome of Haemophilus influenzae was the first complete genome sequence of any free-living organism.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 23,
+    "title": "First archaeal genome fully sequenced",
+    "year": 1996,
+    "location": "USA",
+    "people": "Carol Bult, Craig Venter and colleagues",
+    "summary": "Sequencing of Methanocaldococcus jannaschii's genome confirmed archaea's deep genetic distinctiveness from bacteria.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 24,
+    "title": "Human Microbiome Project launched",
+    "year": 2007,
+    "location": "USA",
+    "people": "National Institutes of Health consortium",
+    "summary": "A large-scale initiative to catalogue the microbial communities living in and on the human body, reshaping understanding of health and disease.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 25,
+    "title": "CRISPR-Cas9 developed as a gene-editing tool",
+    "year": 2012,
+    "location": "Berkeley, USA / Umea, Sweden",
+    "people": "Jennifer Doudna; Emmanuelle Charpentier",
+    "summary": "Adapted a bacterial immune defense mechanism into a programmable gene-editing tool, earning the 2020 Nobel Prize in Chemistry.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 26,
+    "title": "Identification and sequencing of SARS-CoV-2",
+    "year": 2020,
+    "location": "Wuhan, China",
+    "people": "Chinese CDC and collaborating research teams",
+    "summary": "The virus behind a cluster of pneumonia cases was identified and its genome published within weeks, enabling rapid global diagnostic and vaccine development.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 27,
+    "title": "Discovery of restriction enzymes",
+    "year": 1970,
+    "location": "Baltimore, USA",
+    "people": "Hamilton Smith; Daniel Nathans; Werner Arber",
+    "summary": "Identification of bacterial enzymes that cut DNA at specific sequences enabled recombinant DNA technology; shared the 1978 Nobel Prize.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 28,
+    "title": "First recombinant DNA organism",
+    "year": 1973,
+    "location": "California, USA",
+    "people": "Stanley Cohen; Herbert Boyer",
+    "summary": "Combined DNA from different species into a functioning bacterial genome, founding modern genetic engineering.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 29,
+    "title": "Genetically engineered bacteria produce human insulin",
+    "year": 1978,
+    "location": "California, USA",
+    "people": "Genentech researchers",
+    "summary": "Escherichia coli was engineered to produce synthetic human insulin, the first genetically engineered drug, approved for use in 1982.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 30,
+    "title": "Discovery of CRISPR sequences in bacteria",
+    "year": 1993,
+    "location": "Alicante, Spain",
+    "people": "Francisco Mojica",
+    "summary": "Mojica identified repeated DNA sequences in archaea and bacteria that were later understood to form an adaptive immune system against viruses.",
+    "confidence": "well-documented"
+  },
+  {
+    "id": 31,
+    "title": "CRISPR gene-drive system reverses antibiotic resistance in bacteria",
+    "year": 2026,
+    "location": "San Diego, California, USA",
+    "people": "Ethan Bier; Justin Meyer and colleagues, UC San Diego",
+    "summary": "The pPro-MobV system spreads a CRISPR-based genetic cassette through bacterial populations, actively deleting antibiotic-resistance genes rather than just killing resistant cells, including within biofilms.",
+    "confidence": "well-documented"
+  }
+]
