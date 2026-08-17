@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /support.html
+
+Sitemap: https://microbial-odyssey.example.com/sitemap.xml
