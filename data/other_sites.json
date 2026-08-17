@@ -1,8 +1,8 @@
 [
-  {"id":1,"name":"Website 1","url":"#"},
-  {"id":2,"name":"Website 2","url":"#"},
-  {"id":3,"name":"Website 3","url":"#"},
-  {"id":4,"name":"Website 4","url":"#"},
+  {"id":1,"Labprepdz":"Website 1","url":"https://intj-boy.github.io/LabPrepDz/"},
+  {"id":2,"ExpoShare":"Website 2","url":"https://intj-boy.github.io/ExpoShare/"},
+  {"id":3,"MicroLab Pro":"Website 3","url":"intj-boy.github.io/MicroLabPro/"},
+  {"id":4,"MicroVerse":"Website 4","url":"intj-boy.github.io/MicroVerse/"},
   {"id":5,"name":"Website 5","url":"#"},
   {"id":6,"name":"Website 6","url":"#"},
   {"id":7,"name":"Website 7","url":"#"}
